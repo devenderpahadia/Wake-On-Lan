@@ -1,10 +1,6 @@
 //
 //  main.c
 //  Wake On Lan
-//
-//  Created by Garvit Chaudhary on 31/08/20.
-//  Copyright © 2020 Garvit Chaudhary. All rights reserved.
-//
 #include <stdio.h>//included for funtions like main(),fprintf(),printf(),malloc(),
 #include "WakeOnLan.h"//header file declared containing neccessary macros and the function prototypes
 #include <stdlib.h>//pointer : stderr ; function used : strtol(),exit(),
