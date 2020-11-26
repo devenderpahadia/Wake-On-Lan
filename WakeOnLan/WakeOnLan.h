@@ -2,9 +2,6 @@
 //  WakeOnLan.h
 //  Wake On Lan
 //
-//  Created by Garvit Chaudhary on 31/08/20.
-//  Copyright © 2020 Garvit Chaudhary. All rights reserved.
-//
 #ifndef WakeOnLan_h
 #define WakeOnLan_h
 /*
